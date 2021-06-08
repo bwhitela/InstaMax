@@ -20,7 +20,7 @@ from setuptools import find_packages
 version = '2.0.0'
 
 install_requires = [
-    'Pillow==8.1.2'
+    'Pillow==8.2.0'
 ]
 
 

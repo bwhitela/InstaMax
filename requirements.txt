@@ -1,2 +1,2 @@
 sizematters
-Pillow==8.1.2
+Pillow==8.2.0
